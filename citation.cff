@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Roy"
+  given-names: "Sourav"
+  orcid: "https://orcid.org/0009-0004-1744-9792"
+title: "M-SDT: A modelling framework for dengue transmission, forecasting, and intervention strategies in Ahmedabad Municipal Corporation"
+version: 1.0.1
+date-released: 2026
+url: "https://github.com/me-souravpamu/Dengue_AMC"
